@@ -1,1 +1,6 @@
 this note is to try stuying git 
+
+something else
+
+
+111
